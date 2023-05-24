@@ -51,7 +51,7 @@ nav a:hover {
 
 .productos {
     width: 940px;
-    margin: 0 auto;
+    margin: 40px auto;
     padding: 40px 0;
 
 }
@@ -63,7 +63,7 @@ nav a:hover {
     vertical-align: top;
     margin: 0 1.5%;
     padding: 30px 5px;
-    border: black solid;
+    border: 3px black solid;
     border-radius: 50px 15px;
 }
 
@@ -83,13 +83,13 @@ nav a:hover {
 }
 
 .productos h2 {
-    font-size: 25px;
+    font-size: 18px;
     font-weight: bold;
 
 }
 
 .productos li:hover h2 {
-    font-size: 30px;
+    font-size: 25px;
 
 }
 
